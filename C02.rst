@@ -19,7 +19,16 @@ Material
  `Numpy Tutorial <https://docs.scipy.org/doc/numpy/user/quickstart.html>`__
 
 
+Exercise
+========
 
+1.Fibonacci sequence: Write a code that generates the first n terms of the Fibonacci sequence;
+
+2.Web Crawler: Write a web crawler program to get reviews of movies on douban;
+
+3.Data statistics: Based on the data we give, we use Numpy to calculate and print;
+
+4.Image processing: Use Numpy and Scipy process image
 
 Homework
 ========
