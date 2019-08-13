@@ -22,11 +22,11 @@ Material
 Exercise
 ========
 
-1.Fibonacci sequence: Write a code that generates the first n terms of the Fibonacci sequence;
+1.Fibonacci sequence: Write a code that generates the first n terms of the Fibonacci sequence;`Hand Out https://pan.baidu.com/s/1-nKUumC1c542iCriYW6kjA`__
 
-2.Web Crawler: Write a web crawler program to get reviews of movies on douban; `Hand Out <https://github.com/Don-Joey/Artificial-Intelligence-Course/blob/master/WebCrawler.ipynb>`__
+2.Web Crawler: Write a web crawler program to get reviews of movies on douban; `Hand Out <https://pan.baidu.com/s/1KIY7EjBEEBdkiE4UDHo-QQ>`__
 
-3.Data statistics: Based on the data we give, we use Numpy to calculate and print;
+3.Data statistics: Based on the data we give, we use Numpy to calculate and print;`Hand Out <https://pan.baidu.com/s/1rxZE8tUbsTGHet8lqkM7zg>`__
 
 4.Image processing: Use Numpy and Scipy process image
 
