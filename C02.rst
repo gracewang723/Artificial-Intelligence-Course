@@ -24,7 +24,7 @@ Exercise
 
 1.Fibonacci sequence: Write a code that generates the first n terms of the Fibonacci sequence;
 
-2.Web Crawler: Write a web crawler program to get reviews of movies on douban;
+2.Web Crawler: Write a web crawler program to get reviews of movies on douban; `Hand Out <https://github.com/Don-Joey/Artificial-Intelligence-Course/blob/master/WebCrawler.ipynb>`__
 
 3.Data statistics: Based on the data we give, we use Numpy to calculate and print;
 
