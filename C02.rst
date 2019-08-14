@@ -32,6 +32,7 @@ Exercise
 `HandOut <https://pan.baidu.com/s/1rxZE8tUbsTGHet8lqkM7zg>`__
 
 4.Image processing: Use Numpy and Scipy process image
+`HandOut <https://pan.baidu.com/s/1r60lS4uvrMBR5MXCF6PO5A>`__
 
 Homework
 ========
