@@ -1,5 +1,5 @@
 ******************************
-C05 Financial Network Analysis
+C05 Deep Learning of Natural Science
 ******************************
 
 Homework
