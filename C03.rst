@@ -8,26 +8,12 @@ Material
 
 Homework
 ========
-1. Read one paper of the literature listed on our website of chapter3, and write one page discussion of the paper. You are encouraged to introduce the content in this paper and put up your consideration. Your page can include:
+1. Using SVM to classify left-right hand image
+`Handout <https://pan.baidu.com/s/1x3UniHLJHtfwvsNiP6eP-g>`__
 
-- The problem it aims to solve;
-
-- The motivation/importance of the problem;
-
-- The method it uses to solve the problem;
-
-- The conclusion and future work;
-
-- Your comment to the above content.
-
-2. Design/Find a research topic and write one page research proposal to describe the importance of this topic and possible interesting questions about it.
+2. Using NN to classify left-right hand image
 
 
-3. Use netxworkx to generate one ER network, one small world network, and one scale free network; Calculate and plot the degree distributions for all three networks. (The total vertices N=1000.)
-
- For HW1-2, save them as two PDF documents. (English texts are preferred.)
-
- For HW3, save it as a py code.
 
 
 Literature
