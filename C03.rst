@@ -12,6 +12,7 @@ Homework
 `Handout <https://pan.baidu.com/s/1x3UniHLJHtfwvsNiP6eP-g>`__
 
 2. Using NN to classify left-right hand image
+`Handout <https://pan.baidu.com/s/1s0mHhRV-hGrTD0Eaq7IlbQ>`__
 
 
 
