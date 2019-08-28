@@ -2,9 +2,24 @@
 C02 Python
 **************************
 
-Material
+Exercises
 ========
 
+Class1-1.Python: generate 100 numbers randomly, use bubble sort, out put the max, min, mean
+
+Class1-2.Input N, D, output twin prime pairs less N.
+
+Class2-1.Find a network on the Internet, visualization the network.Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
+
+Homework
+========
+
+1.Write python program to test Goldbach conjecture.
+
+2.TSP stands for travelling salesman problem. Study TSP algorithms and use NetworkX package to generate a random network, input number of nodes N and edge probability p. Any isolated node connects a random node, make sure there is no isolated node. Write the TSP algorithm to output TSP routes. 
+
+Materials
+========
 
  `Python Official Documentation <https://docs.python.org/3/tutorial/>`__
 
@@ -23,23 +38,3 @@ Material
  https://www.anaconda.com/distribution/
 
  https://networkx.github.io/
-
-
-Exercise
-========
-
-Class1-1.Python: generate 100 numbers randomly, use bubble sort, out put the max, min, mean
-
-Class1-2.Input N, D, output twin prime pairs less N.
-
-Class2-1.Find a network on the Internet, visualization the network.Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
-
-
-Homework
-========
-
-1.Write python program to test Goldbach conjecture.
-
-2.TSP stands for travelling salesman problem. Study TSP algorithms and use NetworkX package to generate a random network, input number of nodes N and edge probability p. Any isolated node connects a random node, make sure there is no isolated node. Write the TSP algorithm to output TSP routes. 
-
-
