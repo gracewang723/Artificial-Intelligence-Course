@@ -17,9 +17,9 @@ C03-1-1. Use SVM for multi-classification with https://archive.ics.uci.edu/ml/da
 
 C03-2-1. Use NN to classify Wines https://archive.ics.uci.edu/ml/datasets/Wine
 
-2-2. MNIST CLASSIFICATION
+C03-2-2. MNIST CLASSIFICATION
 
-2-3. Use NN to predict
+C03-2-3. Use NN to predict
 
 Material
 ========
