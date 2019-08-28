@@ -8,13 +8,16 @@ Material
 
 Homework
 ========
-1. Using SVM to classify left-right hand image
-`Handout <https://pan.baidu.com/s/1x3UniHLJHtfwvsNiP6eP-g>`__
+1-1. Using SVM multi-classification 
+https://archive.ics.uci.edu/ml/datasets/Wine
 
-2. Using NN to classify left-right hand image
+2-1. Use NN to classify Wines
 
+https://archive.ics.uci.edu/ml/datasets/Wine
 
+2-2. MNIST CLASSIFICATION
 
+2-3. Use NN to predict
 
 Literature
 ==========
