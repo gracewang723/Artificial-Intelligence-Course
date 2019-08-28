@@ -5,11 +5,11 @@ C02 Python
 Exercises
 ========
 
-Class1-1.Python: generate 100 numbers randomly, use bubble sort, out put the max, min, mean
+Class1-1.Generate 100 numbers randomly, use bubble sort, out put the max, min, mean
 
 Class1-2.Input N, D, output twin prime pairs less N.
 
-Class2-1.Find a network on the Internet, visualization the network.Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
+Class2-1.Generate a random network, input nodes N and probability P, visualization the network, save the picture as the EPS file. Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
 
 Homework
 ========
@@ -20,6 +20,9 @@ Homework
 
 Materials
 ========
+
+
+ Python Official Documentation： `URL<https://docs.python.org/3/tutorial/>`__
 
  `Python Official Documentation <https://docs.python.org/3/tutorial/>`__
 
