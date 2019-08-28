@@ -17,33 +17,29 @@ Material
  `Python Cookbook <http://shop.oreilly.com/product/0636920027072.do>`__
 
  `Numpy Tutorial <https://docs.scipy.org/doc/numpy/user/quickstart.html>`__
+ 
+ https://www.python.org/
+ 
+ https://www.anaconda.com/distribution/
+
+ https://networkx.github.io/
 
 
 Exercise
 ========
 
-1.Fibonacci sequence: Write a code that generates the first n terms of the Fibonacci sequence;
-`Handout <https://pan.baidu.com/s/1-nKUumC1c542iCriYW6kjA>`__
+Class1-1.Python: generate 100 numbers randomly, use bubble sort, out put the max, min, mean
 
-2.Web Crawler: Write a web crawler program to get reviews of movies on douban;
-`Hand Out <https://pan.baidu.com/s/1KIY7EjBEEBdkiE4UDHo-QQ>`__
+Class1-2.Input N, D, output twin prime pairs less N.
 
-3.Data statistics: Based on the data we give, we use Numpy to calculate and print; 
-`HandOut <https://pan.baidu.com/s/1rxZE8tUbsTGHet8lqkM7zg>`__
+Class2-1.Find a network on the Internet, visualization the network.Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
 
-4.Image processing: Use Numpy and Scipy process image
-`HandOut <https://pan.baidu.com/s/1r60lS4uvrMBR5MXCF6PO5A>`__
 
 Homework
 ========
 
-1.Find all the prime numbers less than a non-negative integer N.
+1.Write python program to test Goldbach conjecture.
 
-2.Realize the bubble sort algorithm in python.
-
-3.Test the Goldbach’s conjecture using python to output all possible solutions for an even number N<10000, where both a and b are primes and a+b=N
-4.Mars is far away from Earth. Supposing you are the programmer responsible for the communication  to control the robots on Mars from Earth, please consider the delay of communication between two planets and think how to design a program to control the robots walking on Mars.
-
-For Q1-3, please submit your py codes. For Q4, please write at most one page to describe your idea.
+2.TSP stands for travelling salesman problem. Study TSP algorithms and use NetworkX package to generate a random network, input number of nodes N and edge probability p. Any isolated node connects a random node, make sure there is no isolated node. Write the TSP algorithm to output TSP routes. 
 
 
