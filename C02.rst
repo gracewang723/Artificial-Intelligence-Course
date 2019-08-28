@@ -16,7 +16,7 @@ Homework
 
 1.Write python program to test Goldbach conjecture.
 
-2.TSP stands for travelling salesman problem. Study TSP algorithms and use NetworkX package to generate a random network, input number of nodes N and edge probability p. Any isolated node connects a random node, make sure there is no isolated node. Write the TSP algorithm to output TSP routes. 
+2.Input the number of nodes N and the distance D, and node ID i and j. Use networkx to generate a network of size N. Output all routes from node i to node j which is less or equal to D.
 
 Materials
 ========
