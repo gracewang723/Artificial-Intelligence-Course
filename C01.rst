@@ -3,9 +3,14 @@ C01 Introduction
 **************************
 
 
-Homework
+Group Exercises
 ==========
 
+C01-1-1. Propose a research topic using AI.
+
+
+Homework
+==========
 
 C01-1-1.Visit http://Deepmind.com and http://yitutech.com and take a look at what the two AI companies are doing. Please write one-page report about how to turn AI technologies into business.
 
