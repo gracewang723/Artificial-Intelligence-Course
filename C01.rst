@@ -7,7 +7,7 @@ Homework
 ==========
 
 
-Visit <http://Deepmind.com> and <http://yitutech.com> and take a look at what the two AI companies are doing. Please write one-page report about how to turn AI technologies into business.
+Visit http://Deepmind.com and http://yitutech.com and take a look at what the two AI companies are doing. Please write one-page report about how to turn AI technologies into business.
 
 
 Literature
