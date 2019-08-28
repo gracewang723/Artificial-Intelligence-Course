@@ -2,13 +2,20 @@
 C03 AI Introduction
 **************************
 
+Group Exercises
+========
+
+Class3-1.Collect features: height, weight, play football (0/1), swim (0/1), CET4 (0/1), wash clothes more than once a month (0/1), daily sleeping hours, winning of scholarships (0/1), and gender (F/M). Use SVM to classify genders.
+
+Class3-2.Use NN to do the gender classfication.
+
 Material
 ========
 `Networkx Tutorial <https://networkx.github.io/documentation/stable/index.html>`__
 
 Homework
 ========
-1-1. Using SVM multi-classification 
+1-1. Use SVM for multi-classification with
 https://archive.ics.uci.edu/ml/datasets/Wine
 
 2-1. Use NN to classify Wines
