@@ -19,7 +19,9 @@ Material
 ==========
 
 http://Deepmind.com
+
 http://yitutech.com
+
 http://openai.com
 
 
