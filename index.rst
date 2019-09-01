@@ -61,7 +61,7 @@ Teaching Assistants
 
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Zi-Yang Jia - Department of Computer Science, Rutgers University
-* Bo-Jia Li - Sps Professional Study, Columbia University
+* Bo-Jia Li - School of Professional Study, Columbia University
 
 Content
 =========================
