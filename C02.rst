@@ -7,9 +7,9 @@ Exercises
 
 C02-1-1. Generate 100 numbers randomly, use bubble sort, out put the max, min, mean
 
-C02-1-2. Input N, D, output twin prime pairs less N.
+C02-1-2. Input N, and D, output all twin prime pairs less than N of disdance D.
 
-C02-2-1. Generate a random network, input nodes N and probability P, visualization the network, save the picture as the EPS file. Calculte the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
+C02-2-1. Generate a random network, input nodes N and probability P, visualize the network, save the picture as the EPS file. Calculate the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
 
 Homework
 ========
@@ -21,23 +21,20 @@ C02-2-1. Input the number of nodes N and the distance D, and node ID i and j. Us
 Materials
 ========
 
-
- Python Official Documentation： `URL<https://docs.python.org/3/tutorial/>`__
-
- `Python Official Documentation <https://docs.python.org/3/tutorial/>`__
-
- `MIT OpenCourseWare <https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA>`__
-
- `Python Tutorials-Corey Schafer <https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU>`__
+ Python Official Website: https://www.python.org
  
- `Learn Python the Hard Way <https://learnpythonthehardway.org/>`__
+ Python Official Documentation: https://docs.python.org/3/tutorial
+  
+ Anaconda Python distribution: https://www.anaconda.com/distribution
 
- `Python Cookbook <http://shop.oreilly.com/product/0636920027072.do>`__
+ MIT OpenCourseWare: https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA 
 
- `Numpy Tutorial <https://docs.scipy.org/doc/numpy/user/quickstart.html>`__
+ Python Tutorials-Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
  
- https://www.python.org/
- 
- https://www.anaconda.com/distribution/
+ Learn Python the Hard Way: https://learnpythonthehardway.org
 
- https://networkx.github.io/
+ Python Cookbook: http://shop.oreilly.com/product/0636920027072.do
+
+ Numpy Tutorial: https://docs.scipy.org/doc/numpy/user/quickstart.html
+  
+ Networkx Python Packages: https://networkx.github.io
