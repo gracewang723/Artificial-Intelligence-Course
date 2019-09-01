@@ -3,7 +3,7 @@ C01 Introduction
 **************************
 
 
-Group Exercises
+Group Exercise
 ==========
 
 C01-1-1. Propose a research topic using AI.
@@ -12,31 +12,23 @@ C01-1-1. Propose a research topic using AI.
 Homework
 ==========
 
-C01-1-1. Visit http://Deepmind.com and http://yitutech.com and take a look at what the two AI companies are doing. Please write one-page report about how to turn AI technologies into business.
+C01-1-1. Visit http://Deepmind.com and http://yitutech.com and take a look at what the two AI companies are doing. Please write one-page report on how to turn AI technologies into business.
 
 
 Material 
 ==========
 
-http://Deepmind.com
+DeepMind: http://Deepmind.com
 
-http://yitutech.com
+YiTu Tech: http://yitutech.com
 
-http://openai.com
+OpenAI: http://openai.com
 
 
 Literature
 ==========
+[1] P. M. R. DeVries, F. Vi ́egas, M. Wattenberg, and B. J. Meade. Deep learning of aftershock patterns following large earthquakes. Nature, 560(7720):632–634, 2018.
 
+[2] J. Pei, L. Deng, S. Song, M. Zhao, Y. Zhang, S. Wu, G. Wang, Z. Zou, Z. Wu, W. He, F. Chen, N. Deng, S. Wu, Y. Wang, Y. Wu, Z. Yang, C. Ma, G. Li, W. Han, H. Li, H. Wu, R. Zhao, Y. Xie, and L. Shi. Towards artificial general intelligence with hybrid tianjic chip architecture. Nature, 572(7767):106–111, 2019.
 
-  Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), `Combining satellite imagery and machine learning to predict poverty <http://science.sciencemag.org/content/353/6301/790>`__ , Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
-
-  Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), `Deep learning massively accelerates super-resolution localization microscopy <https://www.nature.com/articles/nbt.4106>`__ , Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
-
-  Zhou Q, Tang P, Liu S, Pan J, Yan Q and Zhang S-C (2018), `Learning atoms for materials discovery <http://www.pnas.org/content/early/2018/06/25/1801181115.short>`__ , Proceedings of the National Academy of Sciences. National Academy of Sciences.
-
-  Einav L, Finkelstein A, Mullainathan S and Obermeyer Z (2018), `Predictive modeling of U.S. health care spending in late life <http://science.sciencemag.org/content/360/6396/1462>`__ , Science. Vol. 360(6396), pp. 1462-1465. American Association for the Advancement of Science. 
-
-  Heft-Neal S, Burney J, Bendavid E and Burke M (2018), `Robust relationship between air quality and infant mortality in Africa <https://www.nature.com/articles/s41586-018-0263-3>`__ , Nature., July, 2018. Vol. 559(7713), pp. 254-258.
-
-
+[3] Q. Zhou, P. Tang, S. Liu, J. Pan, Q. Yan, and S.-C. Zhang. Learning atoms for materials discovery. Proceedings of the National Academy of Sciences, 2018.
