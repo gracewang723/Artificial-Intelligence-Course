@@ -12,21 +12,21 @@ Course Mission
 * To build a bridge to connect: 
 
    * Computing Methods + Science/Engineering
+   
+* Artificial Intelligence:
 
+   * Machine Learning
+   
+   * Deep Learning
 * Science:
 
    * Natural Science: Mathematics, Physics, Chemistry, Cosmology...
-
-   * Management Science: Planning, Scheduling, Optimization, Supply Chain, Organization...
-
+   
+   * Life Science:
+   
    * Social Science: Social Network, Social Structure, Policy Making...
 
-   * Economics: How to allocate scarce/limited resources to optimize the output for the best of com/org/society/individuals?
-
-* Engineering: 
-
-   * Manufacturing, Food Production, Online Business Operation
-   * Financial Engineering...
+   * Management Science: Planning, Scheduling, Optimization, Supply Chain, Organization...
 
 Course Target
 =========================
@@ -56,9 +56,10 @@ Course Instructors
 
 Teaching Assistants
 =========================
-* Qi-Yuan Zhang - School of Computer Science and Engineering, UESTC
 
 * Wei-Jia Wang - School of Information and Software, UESTC
+* Zi-Yang Jia - Department of Computer Science, Rutgers University
+* Bo-Jia Li - Columbia University
 
 Content
 =========================
