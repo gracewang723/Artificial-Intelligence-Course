@@ -1,28 +1,30 @@
 **************************
-Course Introduction
+Course Description
 ************************** 
+* Multidiscplinary Artificial Intelligence
 
 * Fall 2019
 
-* Core Course for Undergraduates in UESTC 
+* Core course for undergraduates in UESTC 
    
 Course Mission  
 =========================
  
 * To build a bridge to connect: 
 
-   * Computing Methods + Science/Engineering
-   
+   * Artificial Intelligence + Science 
+      
 * Artificial Intelligence:
 
    * Machine Learning
    
    * Deep Learning
+   
 * Science:
 
    * Natural Science: Mathematics, Physics, Chemistry, Cosmology...
    
-   * Life Science:
+   * Life Science: Healthcare, Drug Discovery...
    
    * Social Science: Social Network, Social Structure, Policy Making...
 
@@ -31,15 +33,15 @@ Course Mission
 Course Target
 =========================
 
-* Expose to computing techniques:
+* Expose to Artificial Intelligence techniques:
 
-   * Machine Learning, AI (Deep Learning), Network Modelling Methods, etc.
+   * Machine Learning, Deep Learning
 
    * To know what we have in the toolbox.
 
 * Expose to the research frontiers of various sciences:
 
-   * Natural Science, Management Science, Social Science, etc.
+   * Natural Science, Life Science, Social Science, Management Science etc.
 
    * To understand what’s going on in these fields.
 
