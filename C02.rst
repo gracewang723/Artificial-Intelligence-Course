@@ -27,14 +27,13 @@ Material
   
  Anaconda Python distribution: https://www.anaconda.com/distribution
 
- MIT OpenCourseWare: https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA 
-
- Python Tutorials-Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
- 
- Learn Python the Hard Way: https://learnpythonthehardway.org
-
- Python Cookbook: http://shop.oreilly.com/product/0636920027072.do
-
  Numpy Tutorial: https://docs.scipy.org/doc/numpy/user/quickstart.html
   
  Networkx Python Packages: https://networkx.github.io
+
+Literature
+========
+
+[1] J. Bovy. galpy: A python LIBRARY FOR GALACTIC DYNAMICS. The Astrophysical Journal Sup- plement Series, 216(2):29, feb 2015.
+
+[2] G. van Rossum and P. D. Team. Python 3.6 Extending and Embedding Python. Samurai Media Limited, United Kingdom, 2016.
