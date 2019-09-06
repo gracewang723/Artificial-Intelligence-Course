@@ -21,6 +21,8 @@ C02-2-1. Input the number of nodes N and the distance D, and node ID i and j. Us
 Material
 ========
 
+ Windows+Sublime+Python development environment Setup: https://www.jianshu.com/p/ca031bc9082b
+ 
  Python Official Website: https://www.python.org
  
  Python Official Documentation: https://docs.python.org/3/tutorial
