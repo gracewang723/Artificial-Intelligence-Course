@@ -5,18 +5,19 @@ C02 Python
 Exercise
 ========
 
-C02-1-1. Generate 100 numbers randomly, use bubble sort, out put the max, min, mean
+C02-1-1. Generate 100 numbers randomly, use bubble sort algorithm to sort. Please print the sorted numbers, and the max, min, mean.
 
 C02-1-2. Input N, and D, output all twin prime pairs less than N of distance D.
 
-C02-2-1. Generate a random network, input nodes N and probability P, visualize the network, save the picture as the EPS file. Calculate the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
+C02-2-1. Input the number of nodes N and edge probability p, use networkx to generate an ER network. Please visualize the network, save the picture as an EPS file. Calculate the average degree, average betweenness centrality, plot degree distribution and betweenness centrality distribution.
+
 
 Homework
 ========
 
-C02-1-1. Write python program to test Goldbach conjecture.
+C02-1-1. Input an integer N and output all possible solutions of Goldbach conjecture. For example, N=10, the program should output: 4=2+2, 6=3+3, 8=3+5, 10=3+7, 10=5+5.
 
-C02-2-1. Input the number of nodes N and the distance D, and node ID i and j. Use networkx to generate a network of size N. Output all routes from node i to node j which is less or equal to D.
+C02-2-1. Input the number of nodes N, the distance D, and node ID i and j. Use networkx to generate a randome network of size N. Output all possible routes from node i to node j which are less or equal to D.
 
 Material
 ========
