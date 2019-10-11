@@ -4,7 +4,7 @@ C04 Deep Learning
 
 Group Exercise
 ========
-C04-1-1. Collect pics of your hands. Use neural network to classify left or right.
+C04-1-1. Collect pictures of your hands. Use neural network to classify left or right.
 
 
 Homework
