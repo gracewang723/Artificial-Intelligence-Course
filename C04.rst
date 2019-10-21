@@ -6,6 +6,9 @@ Group Exercise
 ========
 C04-1-1. Collect pictures of your hands. Use neural network to classify left or right.
 
+C04-2-1. Segmentation of book in pictures. Use Unet.
+
+
 
 Homework
 ========
