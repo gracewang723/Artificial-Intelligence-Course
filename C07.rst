@@ -15,24 +15,23 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-  Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), **Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning**, Proceedings of the National Academy of Sciences. National Academy of Sciences.
+Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
+   
 
-  Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), **Combining satellite imagery and machine learning to predict poverty**, Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
+Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
+  
 
-  LeCun Y, Bengio Y and Hinton G (2015), **Deep learning**, Nature., 05, 2015. Vol. 521, pp. 436 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
+Dong L, Ratti C and Zheng S (2019), "Predicting neighborhoods socioeconomic attributes using restaurant data", Proceedings of the National Academy of Sciences. Vol. 116(31), pp. 15447-15452. National Academy of Sciences.
+   
 
-  Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), **Deep learning massively accelerates super-resolution localization microscopy**, Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
+Einav L, Finkelstein A, Mullainathan S and Obermeyer Z (2018), "Predictive modeling of U.S. health care spending in late life", Science. Vol. 360(6396), pp. 1462-1465. American Association for the Advancement of Science.
+   
 
-  Shen Y, Harris NC, Skirlo S, Prabhu M, Baehr-Jones T, Hochberg M, Sun X, Zhao S, Larochelle H, Englund D and Soljačić M (2017), **Deep learning with coherent nanophotonic circuits**, Nature Photonics., June, 2017. Vol. 11, pp. 441. Nature Publishing Group.
+Heftneal S, Burney J, Bendavid E and Burke M (2018), "Robust relationship between air quality and infant mortality in Africa", Nature.
 
-  Chiles J, Buckley SM, Nam SW, Mirin RP and Shainline JM (2018), **Design, fabrication, and metrology of 10 × 100 multi-planar integrated photonic routing manifolds for neural networks**, APL Photonics. Vol. 3(10), pp. 106101.
 
-  Lecun Y, Bottou L, Bengio Y and Haffner P (1998), **Gradient-based learning applied to document recognition**, Proceedings of the IEEE., Nov, 1998. Vol. 86(11), pp. 2278-2324.
+McFarland DA, Lewis K and Goldberg A (2016), "Sociology in the Era of Big Data: The Ascent of Forensic Social Science", The American Sociologist., Mar, 2016. Vol. 47(1), pp. 12-35.
+   
 
-  Krizhevsky A, Sutskever I and Hinton GE (2012), **ImageNet Classification with Deep Convolutional Neural Networks**, In Advances in Neural Information Processing Systems 25. , pp. 1097-1105. Curran Associates, Inc..
-
-  Silver D, Huang A, Maddison CJ, Guez A, Sifre L, van den Driessche G, Schrittwieser J, Antonoglou I, Panneershelvam V, Lanctot M, Dieleman S, Grewe D, Nham J, Kalchbrenner N, Sutskever I, Lillicrap T, Leach M, Kavukcuoglu K, Graepel T and Hassabis D (2016), **Mastering the game of Go with deep neural networks and tree search**, Nature., January, 2016. Vol. 529, pp. 484. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
-
-  Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), **Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States**, Proceedings of the National Academy of Sciences. National Academy of Sciences.
-
-  Zeiler MD and Fergus R (2014), **Visualizing and Understanding Convolutional Networks**, In Computer Vision -- ECCV 2014. Cham , pp. 818-833. Springer International Publishing.
+Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. Vol. 114(50), pp. 13108-13113. National Academy of Sciences.
+   
