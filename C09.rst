@@ -15,18 +15,37 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-  Ding X, Zhang Y, Liu T and Duan J (2015), **Deep Learning for Event-Driven Stock Prediction**, In Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, IJCAI 2015, Buenos Aires, Argentina, July 25-31, 2015. , pp. 2327-2333.
+Fagnan DE, Fernandez JM, Lo AW and Stein RM (2013), "Can Financial Engineering Cure Cancer?", The American Economic Review. Vol. 103(3), pp. 406-411. American Economic Association.
 
-  Chen K, Zhou Y and Dai F (2015), **A LSTM-based method for stock returns prediction: A case study of China stock market**, In 2015 IEEE International Conference on Big Data (Big Data)., Oct, 2015. , pp. 2823-2824.
 
-  Akita R, Yoshihara A, Matsubara T and Uehara K (2016), **Deep learning for stock prediction using numerical and textual information**, In 2016 IEEE/ACIS 15th International Conference on Computer and Information Science (ICIS)., June, 2016. , pp. 1-6.
+Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
 
-  Chong E, Han C and Park FC (2017), **Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies**, Expert Systems with Applications. Vol. 83, pp. 187 - 205.
 
-  Fischer T and Krauss C (2018), **Deep learning with long short-term memory networks for financial market predictions**, European Journal of Operational Research. Vol. 270(2), pp. 654 - 669.
+Hanaki N, Peterhansl A, Dodds PS and Watts DJ (2007), "Cooperation in Evolving Social Networks", Management Science. Vol. 53(7), pp. 1036-1050.
 
-  Alostad H and Davulcu H (2015), **Directional Prediction of Stock Prices Using Breaking News on Twitter**, In 2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)., Dec, 2015. Vol. 1, pp. 523-530.
 
-  Chen Y, He K and Tso GK (2017), **Forecasting Crude Oil Prices: a Deep Learning based Model**, Procedia Computer Science. Vol. 122, pp. 300 - 307.
+Santos FC, Pacheco JM and Lenaerts T (2006), "Evolutionary dynamics of social dilemmas in structured heterogeneous populations", Proceedings of the National Academy of Sciences. Vol. 103(9), pp. 3490-3494. National Academy of Sciences.
 
-  Rule W, Duan W, Prakash N, Zhuang N, Alvarado RC and Brown DE (2018), **Social pressure analysis of local events using social media data**, In 2018 Systems and Information Engineering Design Symposium (SIEDS)., April, 2018. , pp. 277-281.
+
+Gracia-Lázaro C, Ferrer A, Ruiz G, Tarancón A, Cuesta JA, Sánchez A and Moreno Y (2012), "Heterogeneous networks do not promote cooperation when humans play a Prisoner's Dilemma", Proc Natl Acad Sci USA., August, 2012. Vol. 109(32), pp. 12922.
+
+
+Traulsen A, Semmann D, Sommerfeld RD, Krambeck H-J and Milinski M (2010), "Human strategy updating in evolutionary games", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+
+
+Shirado H and Christakis NA (2017), "Locally noisy autonomous agents improve global human coordination in network experiments", Nature., May, 2017. Vol. 545, pp. 370. Macmillan Publishers Limited, part of Springer Nature. All rights reserved..
+
+
+Baum JAC, Cowan R and Jonard N (2010), "Network-Independent Partner Selection and the Evolution of Innovation Networks", Management Science. Vol. 56(11), pp. 2094-2110.
+
+
+Das S, Rousseau R, Adamson PC and Lo AW (2018), "New business models to accelerate innovation in pediatric oncology therapeutics: A review", JAMA Oncology.
+
+
+Hauert C and Doebeli M (2004), "Spatial structure often inhibits the evolution of cooperation in the snowdrift game", Nature., April, 2004. Vol. 428, pp. 643. Macmillan Magazines Ltd..
+
+
+Farmer JD and Foley D (2009), "The economy needs agent-based modelling", Nature., 08, 2009. Vol. 460(7256), pp. 685-686. Nature Publishing Group.
+
+
+Gallo E and Yan C (2015), "The effects of reputational and social knowledge on cooperation", Proceedings of the National Academy of Sciences. National Academy of Sciences.
