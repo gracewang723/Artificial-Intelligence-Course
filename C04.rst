@@ -18,30 +18,66 @@ Homework
 Literature
 ==========
 
-  Palia D, Ravid SA and Reisel N (2008), `Choosing to Cofinance: Analysis of Project-Specific Alliances in the Movie Industry <http://dx.doi.org/10.1093/rfs/hhm064>`__, The Review of Financial Studies. Vol. 21(2), pp. 483-511.
+Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+   
 
-  Hanaki N, Peterhansl A, Dodds PS and Watts DJ (2007), `Cooperation in Evolving Social Networks <https://doi.org/10.1287/mnsc.1060.0625>`__, Management Science. Vol. 53(7), pp. 1036-1050.
+Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
+   
 
-  Castro I, Casanueva C and Galán JL (2014), `Dynamic evolution of alliance portfolios <http://www.sciencedirect.com/science/article/pii/S0263237313000844>`__, European Management Journal. Vol. 32(3), pp. 423 - 433.
+LeCun Y, Bengio Y and Hinton G (2015), "Deep learning", Nature., 05, 2015. Vol. 521, pp. 436 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
+ 
 
-  Han X, Cao S, Shen Z, Zhang B, Wang W-X, Cressman R and Stanley HE (2017), `Emergence of communities and diversity in social networks <http://www.pnas.org/content/114/11/2887>`__, Proceedings of the National Academy of Sciences. Vol. 114(11), pp. 2887-2891. National Academy of Sciences.
+Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
+ 
 
-  Kossinets G and Watts DJ (2006), `Empirical Analysis of an Evolving Social Network <http://science.sciencemag.org/content/311/5757/88>`__, Science. Vol. 311(5757), pp. 88-90. American Association for the Advancement of Science.
+He K, Zhang X, Ren S and Sun J (2016), "Deep Residual Learning for Image Recognition", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2016.
 
-  Lieberman E, Hauert C and Nowak MA (2005), `Evolutionary dynamics on graphs <http://dx.doi.org/10.1038/nature03204>`__, Nature., January, 2005. Vol. 433, pp. 312. Macmillan Magazines Ltd..
 
-  Borgatti SP, Mehra A, Brass DJ and Labianca G (2009), `Network Analysis in the Social Sciences <http://science.sciencemag.org/content/323/5916/892>`__, Science. Vol. 323(5916), pp. 892-895. American Association for the Advancement of Science.
+Karpathy A and Fei-Fei L (2015), "Deep Visual-Semantic Alignments for Generating Image Descriptions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
 
-  Morrison EW (2002), `Newcomers' relationships: The role of social network ties during socialization <https://www.jstor.org/stable/3069430>`__, Academy of management Journal. Vol. 45(6), pp. 1149-1160. Academy of Management Briarcliff Manor, NY 10510.
 
-  Tichy NM, Tushman ML and Fombrun C (1979), `Social Network Analysis for Organizations <http://www.jstor.org/stable/257851>`__, The Academy of Management Review. Vol. 4(4), pp. 507-519. Academy of Management.
+Chiles J, Buckley SM, Nam SW, Mirin RP and Shainline JM (2018), "Design, fabrication, and metrology of 10 × 100 multi-planar integrated photonic routing manifolds for neural networks", APL Photonics. Vol. 3(10), pp. 106101.
+  
 
-  Kim J and Hastak M (2018), `Social network analysis: Characteristics of online social networks after a disaster <https://www.sciencedirect.com/science/article/pii/S026840121730525X>`__, International Journal of Information Management. Vol. 38(1), pp. 86-96. Elsevier.
+Girshick R (2015), "Fast R-CNN", In The IEEE International Conference on Computer Vision (ICCV)., December, 2015.
 
-  Haldane AG and May RM (2011), `Systemic risk in banking ecosystems. <https://www.nature.com/articles/nature09659>`__, Nature. Vol. 469(7330), pp. 351.
 
-  Ferriani S, Cattani G and Baden-Fuller C (2009), `The relational antecedents of project-entrepreneurship: Network centrality, team composition and project performance <http://www.sciencedirect.com/science/article/pii/S004873330900167X>`__, Research Policy. Vol. 38(10), pp. 1545 - 1558.
+Ren S, He K, Girshick R and Sun J (2015), "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks", In Advances in Neural Information Processing Systems 28. , pp. 91-99. Curran Associates, Inc..
+ 
 
-  Perry-Smith JE and Shalley CE (2003), `The Social Side of Creativity: A Static and Dynamic Social Network Perspective <http://www.jstor.org/stable/30040691>`__, The Academy of Management Review. Vol. 28(1), pp. 89-106. Academy of Management.
+Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A and Bengio Y (2014), "Generative Adversarial Nets", In Advances in Neural Information Processing Systems 27. , pp. 2672-2680. Curran Associates, Inc..
+ 
 
-  Centola D (2010), `The Spread of Behavior in an Online Social Network Experiment <http://science.sciencemag.org/content/329/5996/1194>`__, Science. Vol. 329(5996), pp. 1194-1197. American Association for the Advancement of Science.
+Szegedy C, Liu W, Jia Y, Sermanet P, Reed S, Anguelov D, Erhan D, Vanhoucke V and Rabinovich A (2015), "Going Deeper With Convolutions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
+
+
+Lecun Y, Bottou L, Bengio Y and Haffner P (1998), "Gradient-based learning applied to document recognition", Proceedings of the IEEE., Nov, 1998. Vol. 86(11), pp. 2278-2324.
+  
+
+Krizhevsky A, Sutskever I and Hinton GE (2012), "ImageNet Classification with Deep Convolutional Neural Networks", In Advances in Neural Information Processing Systems 25. , pp. 1097-1105. Curran Associates, Inc..
+ 
+
+Deng J, Dong W, Socher R, Li L, Kai Li and Li Fei-Fei (2009), "ImageNet: A large-scale hierarchical image database", In 2009 IEEE Conference on Computer Vision and Pattern Recognition., June, 2009. , pp. 248-255.
+ 
+
+Donahue J, Anne Hendricks L, Guadarrama S, Rohrbach M, Venugopalan S, Saenko K and Darrell T (2015), "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
+
+
+Silver D, Huang A, Maddison CJ, Guez A, Sifre L, van den Driessche G, Schrittwieser J, Antonoglou I, Panneershelvam V, Lanctot M, Dieleman S, Grewe D, Nham J, Kalchbrenner N, Sutskever I, Lillicrap T, Leach M, Kavukcuoglu K, Graepel T and Hassabis D (2016), "Mastering the game of Go with deep neural networks and tree search", Nature., January, 2016. Vol. 529, pp. 484. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
+ 
+
+Lin T, Maire M, Belongie SJ, Bourdev LD, Girshick RB, Hays J, Perona P, Ramanan D, Dollár P and Zitnick CL (2014), "Microsoft COCO: Common Objects in Context", CoRR. Vol. abs/1405.0312
+ 
+
+Girshick R, Donahue J, Darrell T and Malik J (2014), "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2014.
+
+
+Jaderberg M, Simonyan K, Zisserman A and kavukcuoglu k (2015), "Spatial Transformer Networks", In Advances in Neural Information Processing Systems 28. , pp. 2017-2025. Curran Associates, Inc..
+
+Ronneberger O, Fischer P and Brox T (2015), "U-Net: Convolutional Networks for Biomedical Image Segmentation", In Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015. Cham , pp. 234-241. Springer International Publishing.
+
+Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+
+Simonyan K and Zisserman A (2014), "Very Deep Convolutional Networks for Large-Scale Image Recognition".
+
+Zeiler MD and Fergus R (2014), "Visualizing and Understanding Convolutional Networks", In Computer Vision -- ECCV 2014. Cham , pp. 818-833. Springer International Publishing.
