@@ -14,46 +14,107 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-  Huang W-Q, Zhuang X-T and Yao S (2009), **A network analysis of the Chinese stock market**, Physica A: Statistical Mechanics and its Applications. Vol. 388(14), pp. 2956 - 2964.
+Tompson J, Schlachter K, Sprechmann P and Perlin K (2017), "Accelerating Eulerian Fluid Simulation with Convolutional Networks", In Proceedings of the 34th International Conference on Machine Learning - Volume 70. Sydney, NSW, Australia , pp. 3424-3433. JMLR.org.
+ 
 
-  Iori G, Masi GD, Precup OV, Gabbi G and Caldarelli G (2008), **A network analysis of the Italian overnight money market**, Journal of Economic Dynamics and Control. Vol. 32(1), pp. 259 - 278.
+Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. Vol. 115(25), pp. E5716-E5725. National Academy of Sciences.
+ 
 
-  Gabaix X, Gopikrishnan P, Plerou V and Stanley HE (2003), **A theory of power-law distributions in financial market fluctuations**, Nature., 05, 2003. Vol. 423(6937), pp. 267-270.
+Mustafa M, Bard D, Bhimji W, Lukić Z, Al-Rfou R and Kratochvil JM (2019), "CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks", Computational Astrophysics and Cosmology. Vol. 6(1), pp. 1.
+ 
 
-  Buldyrev SV, Parshani R, Paul G, Stanley HE and Havlin S (2010), **Catastrophic cascade of failures in interdependent networks**, Nature., 04, 2010. Vol. 464(7291), pp. 1025-1028. Macmillan Publishers Limited. All rights reserved.
+Severson KA, Attia PM, Jin N, Perkins N, Jiang B, Yang Z, Chen MH, Aykol M, Herring PK, Fraggedakis D, Bazant MZ, Harris SJ, Chueh WC and Braatz RD (2019), "Data-driven prediction of battery cycle life before capacity degradation", Nature Energy. Vol. 4(5), pp. 383-391.
+ 
 
-  Gał˛ azka M (2011), **Characteristics of the Polish Stock Market correlations**, International Review of Financial Analysis. Vol. 20(1), pp. 1 - 5.
+Guest D, Cranmer K and Whiteson D (2018), "Deep Learning and Its Application to LHC Physics", Annual Review of Nuclear and Particle Science. Vol. 68(1), pp. 161-181.
+ 
 
-  Tu C (2014), **Cointegration-based financial networks study in Chinese stock market**, Physica A: Statistical Mechanics and its Applications. Vol. 402, pp. 245 - 254.
+Reichstein M, Camps-Valls G, Stevens B, Jung M, Denzler J, Carvalhais N and Prabhat (2019), "Deep learning and process understanding for data-driven Earth system science", Nature. Vol. 566(7743), pp. 195-204.
+ 
 
-  Battiston S, Farmer JD, Flache A, Garlaschelli D, Haldane AG, Heesterbeek H, Hommes C, Jaeger C, May R and Scheffer M (2016), **Complexity theory and financial regulation**, Science. Vol. 351(6275), pp. 818-819. American Association for the Advancement of Science.
+Goh GB, Hodas NO and Vishnu A (2017), "Deep learning for computational chemistry", Journal of Computational Chemistry. Vol. 38(16), pp. 1291-1307.
+ 
 
-  Podobnik B, Horvatic D, Petersen AM and Stanley HE (2009), **Cross-correlations between volume change and price change**, Proceedings of the National Academy of Sciences. Vol. 106(52), pp. 22079-22084.
+Elton DC, Boukouvalas Z, Fuge MD and Chung PW (2019), "Deep learning for molecular design - a review of the state of the art", Molecular Systems Design & Engineering., May, 2019. Vol. 4
+ 
 
-  Zhang W, Li C, Ye Y, Li W and Ngai E (2015), **Dynamic Business Network Analysis for Correlated Stock Price Movement Prediction**, Intelligent Systems, IEEE., Mar, 2015. Vol. 30(2), pp. 26-33.
+Lusch B, Kutz JN and Brunton SL (2018), "Deep learning for universal linear embeddings of nonlinear dynamics", Nature Communications. Vol. 9(1), pp. 4950.
+ 
 
-  in't Veld D and van Lelyveld I (2014), **Finding the core: Network structure in interbank markets**, Journal of Banking & Finance. Vol. 49, pp. 27 - 40.
+Kutz JN (2017), "Deep learning in fluid dynamics", Journal of Fluid Mechanics. Vol. 814, pp. 1-4. Cambridge University Press.
+ 
 
-  Farmer JD and Lo AW (1999), **Frontiers of finance: Evolution and efficient markets**, Proceedings of the National Academy of Sciences. Vol. 96(18), pp. 9991-9992.
+Wei O, Aristov A, Lelek M, Xian H and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology. Vol. 36(5)
 
-  Mantegna RN (1999), **Hierarchical structure in financial markets**, Eur. Phys. J. B. Vol. 11, pp. 193-197.
 
-  Brida JG and Risso WA (2010), **Hierarchical structure of the German stock market**, Expert Systems with Applications. Vol. 37(5), pp. 3846 - 3852.
+Rasp S, Pritchard MS and Gentine P (2018), "Deep learning to represent subgrid processes in climate models", Proceedings of the National Academy of Sciences. Vol. 115(39), pp. 9684-9689. National Academy of Sciences.
+ 
 
-  Stefan F and Atman A (2015), **Is there any connection between the network morphology and the fluctuations of the stock market index?**, Physica A: Statistical Mechanics and its Applications. Vol. 419, pp. 630 - 641.
+Sirignano J and Spiliopoulos K (2018), "DGM: A deep learning algorithm for solving partial differential equations", Journal of Computational Physics. Vol. 375, pp. 1339 - 1364.
+ 
 
-  Boss M, Elsinger H, Summer M and Stefan Thurner 4 (2004), **Network topology of the interbank market**, Quantitative Finance. Vol. 4(6), pp. 677-684. Routledge.
+Liu Y-H and van Nieuwenburg EPL (2018), "Discriminative Cooperative Networks for Detecting Phase Transitions", Phys. Rev. Lett.., Apr, 2018. Vol. 120, pp. 176401. American Physical Society.
+  
 
-  Pozzi F, Di Matteo T and Aste T (2013), **Spread of risk across financial markets: better to invest in the peripheries**, Scientific Reports., April, 2013. Vol. 3, pp. 1665. The Author(s).
+Ravanbakhsh S, Oliva JB, Fromenteau S, Price L, Ho S, Schneider JG and Póczos B (2016), "Estimating Cosmological Parameters from the Dark Matter Distribution.", In ICML. , pp. 2407-2416.
 
-  Tumminello M, Miccichè S, Lillo F, Piilo J and Mantegna RN (2011), **Statistically Validated Networks in Bipartite Complex Systems**, PLOS ONE., 03, 2011. Vol. 6(3), pp. 1-11. Public Library of Science.
 
-  Acemoglu D, Ozdaglar A and Tahbaz-Salehi A (2015), **Systemic Risk and Stability in Financial Networks**, The American Economic Review., 2, 2015. Vol. 105(2), pp. 564-608.
+Sanchez-Lengeling B and Aspuru-Guzik A (2018), "Inverse molecular design using machine learning: Generative models for matter engineering", Science. Vol. 361(6400), pp. 360-365. American Association for the Advancement of Science.
+  
 
-  Haldane AG and May RM (2011), **Systemic risk in banking ecosystems**, Nature., 01, 2011. Vol. 469, pp. 351 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
+Zhou Q, Tang P, Liu S, Pan J, Yan Q and Zhang S-C (2018), "Learning atoms for materials discovery", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+  
 
-  Kali R and Reyes J (2007), **The architecture of globalization: a network approach to international economic integration**, Journal of International Business Studies. Vol. 38(4), pp. 595-620.
+He S, Li Y, Feng Y, Ho S, Ravanbakhsh S, Chen W and Póczos B (2019), "Learning to predict the cosmological structure formation", Proceedings of the National Academy of Sciences. Vol. 116(28), pp. 13825-13832. National Academy of Sciences.
+ 
 
-  De Benedictis L and Tajoli L (2011), **The World Trade Network**, The World Economy. Vol. 34(8), pp. 1417-1454. Blackwell Publishing Ltd.
+Faber FA, Lindmaa A, von Lilienfeld OA and Armiento R (2016), "Machine Learning Energies of 2 Million Elpasolite (ABC_2D_6) Crystals", Phys. Rev. Lett.., Sep, 2016. Vol. 117, pp. 135502. American Physical Society.
+  
 
-  Caraiani P (2013), **Using Complex Networks to Characterize International Business Cycles**, PLOS ONE., 03, 2013. Vol. 8(3), pp. 1-13. Public Library of Science.
+Bergen KJ, Johnson PA, de Hoop MV and Beroza GC (2019), "Machine learning for data-driven discovery in solid Earth geoscience", Science. Vol. 363(6433) American Association for the Advancement of Science.
+  
+
+Butler KT, Davies DW, Cartwright H, Isayev O and Walsh A (2018), "Machine learning for molecular and materials science", Nature. Vol. 559(7715), pp. 547-555.
+ 
+
+Zhang Y, Mesaros A, Fujita K, Edkins SD, Hamidian MH, Ch'ng K, Eisaki H, Uchida S, Davis JCS, Khatami E and Kim E-A (2019), "Machine learning in electronic-quantum-matter imaging experiments", Nature. Vol. 570(7762), pp. 484-490.
+ 
+
+Carrasquilla J and Melko RG (2017), "Machine learning phases of matter", Nature Physics., 02, 2017. Vol. 13, pp. 431 EP -. Nature Publishing Group SN -.
+
+
+Scandolo S (2019), "Machine learning provides realistic model of complex phase transition", Proceedings of the National Academy of Sciences. Vol. 116(21), pp. 10204-10205. National Academy of Sciences.
+ 
+
+Bartók AP, De S, Poelking C, Bernstein N, Kermode JR, Csányi G and Ceriotti M (2017), "Machine learning unifies the modeling of materials and molecules", Science Advances., 12, 2017. Vol. 3(12), pp. e1701816.
+  
+
+Waldmann IP and Griffith CA (2019), "Mapping Saturn using deep learning", Nature Astronomy. Vol. 3(7), pp. 620-625.
+ 
+
+Hartmann MJ and Carleo G (2019), "Neural-Network Approach to Dissipative Quantum Many-Body Dynamics", Phys. Rev. Lett.., Jun, 2019. Vol. 122, pp. 250502. American Physical Society.
+  
+
+Kates-Harbeck J, Svyatkovskiy A and Tang W (2019), "Predicting disruptive instabilities in controlled fusion plasmas through deep learning", Nature. Vol. 568(7753), pp. 526-531.
+ 
+
+Zahrt AF, Henle JJ, Rose BT, Wang Y, Darrow WT and Denmark SE (2019), "Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning", Science. Vol. 363(6424) American Association for the Advancement of Science.
+  
+
+Chua AJK, Galley CR and Vallisneri M (2019), "Reduced-Order Modeling with Artificial Neurons for Gravitational-Wave Inference", Phys. Rev. Lett.., May, 2019. Vol. 122, pp. 211101. American Physical Society.
+  
+
+Baldi P, Sadowski P and Whiteson D (2014), "Searching for exotic particles in high-energy physics with deep learning", Nature Communications., 07, 2014. Vol. 5, pp. 4308 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
+
+
+Han J, Jentzen A and Weinan E (2018), "Solving high-dimensional partial differential equations using deep learning", Proceedings of the National Academy of Sciences. Vol. 115(34), pp. 8505-8510. National Academy of Sciences.
+ 
+
+Wu D, Wang L and Zhang P (2019), "Solving Statistical Mechanics Using Variational Autoregressive Networks", Phys. Rev. Lett.., Feb, 2019. Vol. 122, pp. 080602. American Physical Society.
+  
+
+Agostinelli F, McAleer S, Shmakov A and Baldi P (2019), "Solving the Rubik's cube with deep reinforcement learning and search", Nature Machine Intelligence. Vol. 1(8), pp. 356-363.
+ 
+
+Fredericksen MA, Zhang Y, Hazen ML, Loreto RG, Mangold CA, Chen DZ and Hughes DP (2017), "Three-dimensional visualization and a deep-learning model reveal complex fungal parasite networks in behaviorally manipulated ants", Proceedings of the National Academy of Sciences. Vol. 114(47), pp. 12590-12595. National Academy of Sciences.
+ 
