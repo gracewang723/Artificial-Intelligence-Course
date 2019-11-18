@@ -22,10 +22,7 @@ Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J 
    
 
 Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
-   
 
-LeCun Y, Bengio Y and Hinton G (2015), "Deep learning", Nature., 05, 2015. Vol. 521, pp. 436 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
- 
 
 Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
  
