@@ -14,107 +14,107 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-Tompson J, Schlachter K, Sprechmann P and Perlin K (2017), "Accelerating Eulerian Fluid Simulation with Convolutional Networks", In Proceedings of the 34th International Conference on Machine Learning - Volume 70. Sydney, NSW, Australia , pp. 3424-3433. JMLR.org.
+[1] Tompson J, Schlachter K, Sprechmann P and Perlin K (2017), "Accelerating Eulerian Fluid Simulation with Convolutional Networks", In Proceedings of the 34th International Conference on Machine Learning - Volume 70. Sydney, NSW, Australia , pp. 3424-3433. JMLR.org.
  
 
-Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. Vol. 115(25), pp. E5716-E5725. National Academy of Sciences.
+[2] Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. Vol. 115(25), pp. E5716-E5725. National Academy of Sciences.
  
 
-Mustafa M, Bard D, Bhimji W, Lukić Z, Al-Rfou R and Kratochvil JM (2019), "CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks", Computational Astrophysics and Cosmology. Vol. 6(1), pp. 1.
+[3] Mustafa M, Bard D, Bhimji W, Lukić Z, Al-Rfou R and Kratochvil JM (2019), "CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks", Computational Astrophysics and Cosmology. Vol. 6(1), pp. 1.
  
 
-Severson KA, Attia PM, Jin N, Perkins N, Jiang B, Yang Z, Chen MH, Aykol M, Herring PK, Fraggedakis D, Bazant MZ, Harris SJ, Chueh WC and Braatz RD (2019), "Data-driven prediction of battery cycle life before capacity degradation", Nature Energy. Vol. 4(5), pp. 383-391.
+[4] Severson KA, Attia PM, Jin N, Perkins N, Jiang B, Yang Z, Chen MH, Aykol M, Herring PK, Fraggedakis D, Bazant MZ, Harris SJ, Chueh WC and Braatz RD (2019), "Data-driven prediction of battery cycle life before capacity degradation", Nature Energy. Vol. 4(5), pp. 383-391.
  
 
-Guest D, Cranmer K and Whiteson D (2018), "Deep Learning and Its Application to LHC Physics", Annual Review of Nuclear and Particle Science. Vol. 68(1), pp. 161-181.
+[5] Guest D, Cranmer K and Whiteson D (2018), "Deep Learning and Its Application to LHC Physics", Annual Review of Nuclear and Particle Science. Vol. 68(1), pp. 161-181.
  
 
-Reichstein M, Camps-Valls G, Stevens B, Jung M, Denzler J, Carvalhais N and Prabhat (2019), "Deep learning and process understanding for data-driven Earth system science", Nature. Vol. 566(7743), pp. 195-204.
+[6] Reichstein M, Camps-Valls G, Stevens B, Jung M, Denzler J, Carvalhais N and Prabhat (2019), "Deep learning and process understanding for data-driven Earth system science", Nature. Vol. 566(7743), pp. 195-204.
  
 
-Goh GB, Hodas NO and Vishnu A (2017), "Deep learning for computational chemistry", Journal of Computational Chemistry. Vol. 38(16), pp. 1291-1307.
+[7] Goh GB, Hodas NO and Vishnu A (2017), "Deep learning for computational chemistry", Journal of Computational Chemistry. Vol. 38(16), pp. 1291-1307.
  
 
-Elton DC, Boukouvalas Z, Fuge MD and Chung PW (2019), "Deep learning for molecular design - a review of the state of the art", Molecular Systems Design & Engineering., May, 2019. Vol. 4
+[8] Elton DC, Boukouvalas Z, Fuge MD and Chung PW (2019), "Deep learning for molecular design - a review of the state of the art", Molecular Systems Design & Engineering., May, 2019. Vol. 4
  
 
-Lusch B, Kutz JN and Brunton SL (2018), "Deep learning for universal linear embeddings of nonlinear dynamics", Nature Communications. Vol. 9(1), pp. 4950.
+[9] Lusch B, Kutz JN and Brunton SL (2018), "Deep learning for universal linear embeddings of nonlinear dynamics", Nature Communications. Vol. 9(1), pp. 4950.
  
 
-Kutz JN (2017), "Deep learning in fluid dynamics", Journal of Fluid Mechanics. Vol. 814, pp. 1-4. Cambridge University Press.
+[10] Kutz JN (2017), "Deep learning in fluid dynamics", Journal of Fluid Mechanics. Vol. 814, pp. 1-4. Cambridge University Press.
  
 
-Wei O, Aristov A, Lelek M, Xian H and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology. Vol. 36(5)
+[11] Wei O, Aristov A, Lelek M, Xian H and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology. Vol. 36(5)
 
 
-Rasp S, Pritchard MS and Gentine P (2018), "Deep learning to represent subgrid processes in climate models", Proceedings of the National Academy of Sciences. Vol. 115(39), pp. 9684-9689. National Academy of Sciences.
+[12] Rasp S, Pritchard MS and Gentine P (2018), "Deep learning to represent subgrid processes in climate models", Proceedings of the National Academy of Sciences. Vol. 115(39), pp. 9684-9689. National Academy of Sciences.
  
 
-Sirignano J and Spiliopoulos K (2018), "DGM: A deep learning algorithm for solving partial differential equations", Journal of Computational Physics. Vol. 375, pp. 1339 - 1364.
+[13] Sirignano J and Spiliopoulos K (2018), "DGM: A deep learning algorithm for solving partial differential equations", Journal of Computational Physics. Vol. 375, pp. 1339 - 1364.
  
 
-Liu Y-H and van Nieuwenburg EPL (2018), "Discriminative Cooperative Networks for Detecting Phase Transitions", Phys. Rev. Lett.., Apr, 2018. Vol. 120, pp. 176401. American Physical Society.
+[14] Liu Y-H and van Nieuwenburg EPL (2018), "Discriminative Cooperative Networks for Detecting Phase Transitions", Phys. Rev. Lett.., Apr, 2018. Vol. 120, pp. 176401. American Physical Society.
   
 
-Ravanbakhsh S, Oliva JB, Fromenteau S, Price L, Ho S, Schneider JG and Póczos B (2016), "Estimating Cosmological Parameters from the Dark Matter Distribution.", In ICML. , pp. 2407-2416.
+[15] Ravanbakhsh S, Oliva JB, Fromenteau S, Price L, Ho S, Schneider JG and Póczos B (2016), "Estimating Cosmological Parameters from the Dark Matter Distribution.", In ICML. , pp. 2407-2416.
 
 
-Sanchez-Lengeling B and Aspuru-Guzik A (2018), "Inverse molecular design using machine learning: Generative models for matter engineering", Science. Vol. 361(6400), pp. 360-365. American Association for the Advancement of Science.
+[16] Sanchez-Lengeling B and Aspuru-Guzik A (2018), "Inverse molecular design using machine learning: Generative models for matter engineering", Science. Vol. 361(6400), pp. 360-365. American Association for the Advancement of Science.
   
 
-Zhou Q, Tang P, Liu S, Pan J, Yan Q and Zhang S-C (2018), "Learning atoms for materials discovery", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+[17] Zhou Q, Tang P, Liu S, Pan J, Yan Q and Zhang S-C (2018), "Learning atoms for materials discovery", Proceedings of the National Academy of Sciences. National Academy of Sciences.
   
 
-He S, Li Y, Feng Y, Ho S, Ravanbakhsh S, Chen W and Póczos B (2019), "Learning to predict the cosmological structure formation", Proceedings of the National Academy of Sciences. Vol. 116(28), pp. 13825-13832. National Academy of Sciences.
+[18] He S, Li Y, Feng Y, Ho S, Ravanbakhsh S, Chen W and Póczos B (2019), "Learning to predict the cosmological structure formation", Proceedings of the National Academy of Sciences. Vol. 116(28), pp. 13825-13832. National Academy of Sciences.
  
 
-Faber FA, Lindmaa A, von Lilienfeld OA and Armiento R (2016), "Machine Learning Energies of 2 Million Elpasolite (ABC_2D_6) Crystals", Phys. Rev. Lett.., Sep, 2016. Vol. 117, pp. 135502. American Physical Society.
+[19] Faber FA, Lindmaa A, von Lilienfeld OA and Armiento R (2016), "Machine Learning Energies of 2 Million Elpasolite (ABC_2D_6) Crystals", Phys. Rev. Lett.., Sep, 2016. Vol. 117, pp. 135502. American Physical Society.
   
 
-Bergen KJ, Johnson PA, de Hoop MV and Beroza GC (2019), "Machine learning for data-driven discovery in solid Earth geoscience", Science. Vol. 363(6433) American Association for the Advancement of Science.
+[20] Bergen KJ, Johnson PA, de Hoop MV and Beroza GC (2019), "Machine learning for data-driven discovery in solid Earth geoscience", Science. Vol. 363(6433) American Association for the Advancement of Science.
   
 
-Butler KT, Davies DW, Cartwright H, Isayev O and Walsh A (2018), "Machine learning for molecular and materials science", Nature. Vol. 559(7715), pp. 547-555.
+[21] Butler KT, Davies DW, Cartwright H, Isayev O and Walsh A (2018), "Machine learning for molecular and materials science", Nature. Vol. 559(7715), pp. 547-555.
  
 
-Zhang Y, Mesaros A, Fujita K, Edkins SD, Hamidian MH, Ch'ng K, Eisaki H, Uchida S, Davis JCS, Khatami E and Kim E-A (2019), "Machine learning in electronic-quantum-matter imaging experiments", Nature. Vol. 570(7762), pp. 484-490.
+[22] Zhang Y, Mesaros A, Fujita K, Edkins SD, Hamidian MH, Ch'ng K, Eisaki H, Uchida S, Davis JCS, Khatami E and Kim E-A (2019), "Machine learning in electronic-quantum-matter imaging experiments", Nature. Vol. 570(7762), pp. 484-490.
  
 
-Carrasquilla J and Melko RG (2017), "Machine learning phases of matter", Nature Physics., 02, 2017. Vol. 13, pp. 431 EP -. Nature Publishing Group SN -.
+[23] Carrasquilla J and Melko RG (2017), "Machine learning phases of matter", Nature Physics., 02, 2017. Vol. 13, pp. 431 EP -. Nature Publishing Group SN -.
 
 
-Scandolo S (2019), "Machine learning provides realistic model of complex phase transition", Proceedings of the National Academy of Sciences. Vol. 116(21), pp. 10204-10205. National Academy of Sciences.
+[24] Scandolo S (2019), "Machine learning provides realistic model of complex phase transition", Proceedings of the National Academy of Sciences. Vol. 116(21), pp. 10204-10205. National Academy of Sciences.
  
 
-Bartók AP, De S, Poelking C, Bernstein N, Kermode JR, Csányi G and Ceriotti M (2017), "Machine learning unifies the modeling of materials and molecules", Science Advances., 12, 2017. Vol. 3(12), pp. e1701816.
+[25] Bartók AP, De S, Poelking C, Bernstein N, Kermode JR, Csányi G and Ceriotti M (2017), "Machine learning unifies the modeling of materials and molecules", Science Advances., 12, 2017. Vol. 3(12), pp. e1701816.
   
 
-Waldmann IP and Griffith CA (2019), "Mapping Saturn using deep learning", Nature Astronomy. Vol. 3(7), pp. 620-625.
+[26] Waldmann IP and Griffith CA (2019), "Mapping Saturn using deep learning", Nature Astronomy. Vol. 3(7), pp. 620-625.
  
 
-Hartmann MJ and Carleo G (2019), "Neural-Network Approach to Dissipative Quantum Many-Body Dynamics", Phys. Rev. Lett.., Jun, 2019. Vol. 122, pp. 250502. American Physical Society.
+[27] Hartmann MJ and Carleo G (2019), "Neural-Network Approach to Dissipative Quantum Many-Body Dynamics", Phys. Rev. Lett.., Jun, 2019. Vol. 122, pp. 250502. American Physical Society.
   
 
-Kates-Harbeck J, Svyatkovskiy A and Tang W (2019), "Predicting disruptive instabilities in controlled fusion plasmas through deep learning", Nature. Vol. 568(7753), pp. 526-531.
+[28] Kates-Harbeck J, Svyatkovskiy A and Tang W (2019), "Predicting disruptive instabilities in controlled fusion plasmas through deep learning", Nature. Vol. 568(7753), pp. 526-531.
  
 
-Zahrt AF, Henle JJ, Rose BT, Wang Y, Darrow WT and Denmark SE (2019), "Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning", Science. Vol. 363(6424) American Association for the Advancement of Science.
+[29] Zahrt AF, Henle JJ, Rose BT, Wang Y, Darrow WT and Denmark SE (2019), "Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning", Science. Vol. 363(6424) American Association for the Advancement of Science.
   
 
-Chua AJK, Galley CR and Vallisneri M (2019), "Reduced-Order Modeling with Artificial Neurons for Gravitational-Wave Inference", Phys. Rev. Lett.., May, 2019. Vol. 122, pp. 211101. American Physical Society.
+[30] Chua AJK, Galley CR and Vallisneri M (2019), "Reduced-Order Modeling with Artificial Neurons for Gravitational-Wave Inference", Phys. Rev. Lett.., May, 2019. Vol. 122, pp. 211101. American Physical Society.
   
 
-Baldi P, Sadowski P and Whiteson D (2014), "Searching for exotic particles in high-energy physics with deep learning", Nature Communications., 07, 2014. Vol. 5, pp. 4308 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
+[31] Baldi P, Sadowski P and Whiteson D (2014), "Searching for exotic particles in high-energy physics with deep learning", Nature Communications., 07, 2014. Vol. 5, pp. 4308 EP -. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN -.
 
 
-Han J, Jentzen A and Weinan E (2018), "Solving high-dimensional partial differential equations using deep learning", Proceedings of the National Academy of Sciences. Vol. 115(34), pp. 8505-8510. National Academy of Sciences.
+[32] Han J, Jentzen A and Weinan E (2018), "Solving high-dimensional partial differential equations using deep learning", Proceedings of the National Academy of Sciences. Vol. 115(34), pp. 8505-8510. National Academy of Sciences.
  
 
-Wu D, Wang L and Zhang P (2019), "Solving Statistical Mechanics Using Variational Autoregressive Networks", Phys. Rev. Lett.., Feb, 2019. Vol. 122, pp. 080602. American Physical Society.
+[33] Wu D, Wang L and Zhang P (2019), "Solving Statistical Mechanics Using Variational Autoregressive Networks", Phys. Rev. Lett.., Feb, 2019. Vol. 122, pp. 080602. American Physical Society.
   
 
-Agostinelli F, McAleer S, Shmakov A and Baldi P (2019), "Solving the Rubik's cube with deep reinforcement learning and search", Nature Machine Intelligence. Vol. 1(8), pp. 356-363.
+[34] Agostinelli F, McAleer S, Shmakov A and Baldi P (2019), "Solving the Rubik's cube with deep reinforcement learning and search", Nature Machine Intelligence. Vol. 1(8), pp. 356-363.
  
 
-Fredericksen MA, Zhang Y, Hazen ML, Loreto RG, Mangold CA, Chen DZ and Hughes DP (2017), "Three-dimensional visualization and a deep-learning model reveal complex fungal parasite networks in behaviorally manipulated ants", Proceedings of the National Academy of Sciences. Vol. 114(47), pp. 12590-12595. National Academy of Sciences.
+[35] Fredericksen MA, Zhang Y, Hazen ML, Loreto RG, Mangold CA, Chen DZ and Hughes DP (2017), "Three-dimensional visualization and a deep-learning model reveal complex fungal parasite networks in behaviorally manipulated ants", Proceedings of the National Academy of Sciences. Vol. 114(47), pp. 12590-12595. National Academy of Sciences.
  
