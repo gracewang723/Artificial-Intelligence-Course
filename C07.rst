@@ -15,23 +15,23 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
+[1] Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
    
 
-Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
+[2] Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
   
 
-Dong L, Ratti C and Zheng S (2019), "Predicting neighborhoods socioeconomic attributes using restaurant data", Proceedings of the National Academy of Sciences. Vol. 116(31), pp. 15447-15452. National Academy of Sciences.
+[3] Dong L, Ratti C and Zheng S (2019), "Predicting neighborhoods socioeconomic attributes using restaurant data", Proceedings of the National Academy of Sciences. Vol. 116(31), pp. 15447-15452. National Academy of Sciences.
    
 
-Einav L, Finkelstein A, Mullainathan S and Obermeyer Z (2018), "Predictive modeling of U.S. health care spending in late life", Science. Vol. 360(6396), pp. 1462-1465. American Association for the Advancement of Science.
+[4] Einav L, Finkelstein A, Mullainathan S and Obermeyer Z (2018), "Predictive modeling of U.S. health care spending in late life", Science. Vol. 360(6396), pp. 1462-1465. American Association for the Advancement of Science.
    
 
-Heftneal S, Burney J, Bendavid E and Burke M (2018), "Robust relationship between air quality and infant mortality in Africa", Nature.
+[5] Heftneal S, Burney J, Bendavid E and Burke M (2018), "Robust relationship between air quality and infant mortality in Africa", Nature.
 
 
-McFarland DA, Lewis K and Goldberg A (2016), "Sociology in the Era of Big Data: The Ascent of Forensic Social Science", The American Sociologist., Mar, 2016. Vol. 47(1), pp. 12-35.
+[6] McFarland DA, Lewis K and Goldberg A (2016), "Sociology in the Era of Big Data: The Ascent of Forensic Social Science", The American Sociologist., Mar, 2016. Vol. 47(1), pp. 12-35.
    
 
-Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. Vol. 114(50), pp. 13108-13113. National Academy of Sciences.
+[7] Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. Vol. 114(50), pp. 13108-13113. National Academy of Sciences.
    
