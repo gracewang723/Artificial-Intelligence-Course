@@ -16,71 +16,71 @@ Choose either 1 or 2 as your homework.
 Literature
 ==========
 
-Abdollahi M, Khaleghi T and Yang K (2020), "An integrated feature learning approach using deep learning for travel time prediction", Expert Systems with Applications. Vol. 139, pp. 112864.
+[1] Abdollahi M, Khaleghi T and Yang K (2020), "An integrated feature learning approach using deep learning for travel time prediction", Expert Systems with Applications. Vol. 139, pp. 112864.
 
 
-Fagnan DE, Fernandez JM, Lo AW and Stein RM (2013), "Can Financial Engineering Cure Cancer?", The American Economic Review. Vol. 103(3), pp. 406-411. American Economic Association.
+[2] Fagnan DE, Fernandez JM, Lo AW and Stein RM (2013), "Can Financial Engineering Cure Cancer?", The American Economic Review. Vol. 103(3), pp. 406-411. American Economic Association.
 
 
-Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
+[3] Lazer D, Pentland A, Adamic L, Aral S, Barabási A-L, Brewer D, Christakis N, Contractor N, Fowler J, Gutmann M, Jebara T, King G, Macy M, Roy D and Van Alstyne M (2009), "Computational Social Science", Science. Vol. 323(5915), pp. 721-723. American Association for the Advancement of Science.
 
 
-Hanaki N, Peterhansl A, Dodds PS and Watts DJ (2007), "Cooperation in Evolving Social Networks", Management Science. Vol. 53(7), pp. 1036-1050.
+[4] Hanaki N, Peterhansl A, Dodds PS and Watts DJ (2007), "Cooperation in Evolving Social Networks", Management Science. Vol. 53(7), pp. 1036-1050.
 
 
-Kraus M and Feuerriegel S (2017), "Decision support from financial disclosures with deep neural networks and transfer learning", Decision Support Systems. Vol. 104, pp. 38 - 48.
+[5] Kraus M and Feuerriegel S (2017), "Decision support from financial disclosures with deep neural networks and transfer learning", Decision Support Systems. Vol. 104, pp. 38 - 48.
 
 
-Guan Y, Wei Q and Chen G (2019), "Deep learning based personalized recommendation with multi-view information integration", Decision Support Systems. Vol. 118, pp. 58 - 69.
+[6] Guan Y, Wei Q and Chen G (2019), "Deep learning based personalized recommendation with multi-view information integration", Decision Support Systems. Vol. 118, pp. 58 - 69.
 
 
-Do HH, Prasad P, Maag A and Alsadoon A (2019), "Deep Learning for Aspect-Based Sentiment Analysis: A Comparative Review", Expert Systems with Applications. Vol. 118, pp. 272 - 299.
+[7] Do HH, Prasad P, Maag A and Alsadoon A (2019), "Deep Learning for Aspect-Based Sentiment Analysis: A Comparative Review", Expert Systems with Applications. Vol. 118, pp. 272 - 299.
 
 
-Vo NN, He X, Liu S and Xu G (2019), "Deep learning for decision making and the optimization of socially responsible investments and portfolio", Decision Support Systems. Vol. 124, pp. 113097.
+[8] Vo NN, He X, Liu S and Xu G (2019), "Deep learning for decision making and the optimization of socially responsible investments and portfolio", Decision Support Systems. Vol. 124, pp. 113097.
 
 
-Dabiri S and Heaslip K (2019), "Developing a Twitter-based traffic event detection model using deep learning architectures", Expert Systems with Applications. Vol. 118, pp. 425 - 439.
+[9] Dabiri S and Heaslip K (2019), "Developing a Twitter-based traffic event detection model using deep learning architectures", Expert Systems with Applications. Vol. 118, pp. 425 - 439.
 
 
-Santos FC, Pacheco JM and Lenaerts T (2006), "Evolutionary dynamics of social dilemmas in structured heterogeneous populations", Proceedings of the National Academy of Sciences. Vol. 103(9), pp. 3490-3494. National Academy of Sciences.
+[10] Santos FC, Pacheco JM and Lenaerts T (2006), "Evolutionary dynamics of social dilemmas in structured heterogeneous populations", Proceedings of the National Academy of Sciences. Vol. 103(9), pp. 3490-3494. National Academy of Sciences.
 
 
-Loureiro A, Miguéis V and da Silva LF (2018), "Exploring the use of deep neural networks for sales forecasting in fashion retail", Decision Support Systems. Vol. 114, pp. 81 - 93.
+[11] Loureiro A, Miguéis V and da Silva LF (2018), "Exploring the use of deep neural networks for sales forecasting in fashion retail", Decision Support Systems. Vol. 114, pp. 81 - 93.
 
 
-Gracia-Lázaro C, Ferrer A, Ruiz G, Tarancón A, Cuesta JA, Sánchez A and Moreno Y (2012), "Heterogeneous networks do not promote cooperation when humans play a Prisoner's Dilemma", Proc Natl Acad Sci USA., August, 2012. Vol. 109(32), pp. 12922.
+[12] Gracia-Lázaro C, Ferrer A, Ruiz G, Tarancón A, Cuesta JA, Sánchez A and Moreno Y (2012), "Heterogeneous networks do not promote cooperation when humans play a Prisoner's Dilemma", Proc Natl Acad Sci USA., August, 2012. Vol. 109(32), pp. 12922.
 
 
-Traulsen A, Semmann D, Sommerfeld RD, Krambeck H-J and Milinski M (2010), "Human strategy updating in evolutionary games", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+[13] Traulsen A, Semmann D, Sommerfeld RD, Krambeck H-J and Milinski M (2010), "Human strategy updating in evolutionary games", Proceedings of the National Academy of Sciences. National Academy of Sciences.
 
 
-Moews B, Herrmann JM and Ibikunle G (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", Expert Systems with Applications. Vol. 120, pp. 197 - 206.
+[14] Moews B, Herrmann JM and Ibikunle G (2019), "Lagged correlation-based deep learning for directional trend change prediction in financial time series", Expert Systems with Applications. Vol. 120, pp. 197 - 206.
 
 
-Wang Y and Xu W (2018), "Leveraging deep learning with LDA-based text analytics to detect automobile insurance fraud", Decision Support Systems. Vol. 105, pp. 87 - 95.
+[15] Wang Y and Xu W (2018), "Leveraging deep learning with LDA-based text analytics to detect automobile insurance fraud", Decision Support Systems. Vol. 105, pp. 87 - 95.
 
 
-Shirado H and Christakis NA (2017), "Locally noisy autonomous agents improve global human coordination in network experiments", Nature., May, 2017. Vol. 545, pp. 370. Macmillan Publishers Limited, part of Springer Nature. All rights reserved..
+[16] Shirado H and Christakis NA (2017), "Locally noisy autonomous agents improve global human coordination in network experiments", Nature., May, 2017. Vol. 545, pp. 370. Macmillan Publishers Limited, part of Springer Nature. All rights reserved..
 
 
-Baum JAC, Cowan R and Jonard N (2010), "Network-Independent Partner Selection and the Evolution of Innovation Networks", Management Science. Vol. 56(11), pp. 2094-2110.
+[17] Baum JAC, Cowan R and Jonard N (2010), "Network-Independent Partner Selection and the Evolution of Innovation Networks", Management Science. Vol. 56(11), pp. 2094-2110.
 
 
-Das S, Rousseau R, Adamson PC and Lo AW (2018), "New business models to accelerate innovation in pediatric oncology therapeutics: A review", JAMA Oncology.
+[18] Das S, Rousseau R, Adamson PC and Lo AW (2018), "New business models to accelerate innovation in pediatric oncology therapeutics: A review", JAMA Oncology.
 
 
-Liu Y (2019), "Novel volatility forecasting using deep learning--Long Short Term Memory Recurrent Neural Networks", Expert Systems with Applications. Vol. 132, pp. 99 - 109.
+[19] Liu Y (2019), "Novel volatility forecasting using deep learning--Long Short Term Memory Recurrent Neural Networks", Expert Systems with Applications. Vol. 132, pp. 99 - 109.
 
 
-Hauert C and Doebeli M (2004), "Spatial structure often inhibits the evolution of cooperation in the snowdrift game", Nature., April, 2004. Vol. 428, pp. 643. Macmillan Magazines Ltd..
+[20] Hauert C and Doebeli M (2004), "Spatial structure often inhibits the evolution of cooperation in the snowdrift game", Nature., April, 2004. Vol. 428, pp. 643. Macmillan Magazines Ltd..
 
 
-Farmer JD and Foley D (2009), "The economy needs agent-based modelling", Nature., 08, 2009. Vol. 460(7256), pp. 685-686. Nature Publishing Group.
+[21] Farmer JD and Foley D (2009), "The economy needs agent-based modelling", Nature., 08, 2009. Vol. 460(7256), pp. 685-686. Nature Publishing Group.
 
 
-Gallo E and Yan C (2015), "The effects of reputational and social knowledge on cooperation", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+[22] Gallo E and Yan C (2015), "The effects of reputational and social knowledge on cooperation", Proceedings of the National Academy of Sciences. National Academy of Sciences.
 
 
-Da'u A, Salim N, Rabiu I and Osman A (2019), "Weighted Aspect-Based Opinion Mining Using Deep Learning for Recommender System", Expert Systems with Applications. , pp. 112871.
+[23] Da'u A, Salim N, Rabiu I and Osman A (2019), "Weighted Aspect-Based Opinion Mining Using Deep Learning for Recommender System", Expert Systems with Applications. , pp. 112871.
 
