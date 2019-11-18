@@ -18,63 +18,63 @@ Homework
 Literature
 ==========
 
-Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+[1] Norouzzadeh MS, Nguyen A, Kosmala M, Swanson A, Palmer MS, Packer C and Clune J (2018), "Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning", Proceedings of the National Academy of Sciences. National Academy of Sciences.
    
 
-Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
+[2] Jean N, Burke M, Xie M, Davis WM, Lobell DB and Ermon S (2016), "Combining satellite imagery and machine learning to predict poverty", Science. Vol. 353(6301), pp. 790-794. American Association for the Advancement of Science.
 
 
-Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
+[3] Ouyang W, Aristov A, Lelek M, Hao X and Zimmer C (2018), "Deep learning massively accelerates super-resolution localization microscopy", Nature Biotechnology., April, 2018. Vol. 36, pp. 460. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
  
 
-He K, Zhang X, Ren S and Sun J (2016), "Deep Residual Learning for Image Recognition", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2016.
+[4] He K, Zhang X, Ren S and Sun J (2016), "Deep Residual Learning for Image Recognition", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2016.
 
 
-Karpathy A and Fei-Fei L (2015), "Deep Visual-Semantic Alignments for Generating Image Descriptions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
+[5] Karpathy A and Fei-Fei L (2015), "Deep Visual-Semantic Alignments for Generating Image Descriptions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
 
 
-Chiles J, Buckley SM, Nam SW, Mirin RP and Shainline JM (2018), "Design, fabrication, and metrology of 10 × 100 multi-planar integrated photonic routing manifolds for neural networks", APL Photonics. Vol. 3(10), pp. 106101.
+[6] Chiles J, Buckley SM, Nam SW, Mirin RP and Shainline JM (2018), "Design, fabrication, and metrology of 10 × 100 multi-planar integrated photonic routing manifolds for neural networks", APL Photonics. Vol. 3(10), pp. 106101.
   
 
-Girshick R (2015), "Fast R-CNN", In The IEEE International Conference on Computer Vision (ICCV)., December, 2015.
+[7] Girshick R (2015), "Fast R-CNN", In The IEEE International Conference on Computer Vision (ICCV)., December, 2015.
 
 
-Ren S, He K, Girshick R and Sun J (2015), "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks", In Advances in Neural Information Processing Systems 28. , pp. 91-99. Curran Associates, Inc..
+[8] Ren S, He K, Girshick R and Sun J (2015), "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks", In Advances in Neural Information Processing Systems 28. , pp. 91-99. Curran Associates, Inc..
  
 
-Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A and Bengio Y (2014), "Generative Adversarial Nets", In Advances in Neural Information Processing Systems 27. , pp. 2672-2680. Curran Associates, Inc..
+[9] Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A and Bengio Y (2014), "Generative Adversarial Nets", In Advances in Neural Information Processing Systems 27. , pp. 2672-2680. Curran Associates, Inc..
  
 
-Szegedy C, Liu W, Jia Y, Sermanet P, Reed S, Anguelov D, Erhan D, Vanhoucke V and Rabinovich A (2015), "Going Deeper With Convolutions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
+[10] Szegedy C, Liu W, Jia Y, Sermanet P, Reed S, Anguelov D, Erhan D, Vanhoucke V and Rabinovich A (2015), "Going Deeper With Convolutions", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
 
 
-Lecun Y, Bottou L, Bengio Y and Haffner P (1998), "Gradient-based learning applied to document recognition", Proceedings of the IEEE., Nov, 1998. Vol. 86(11), pp. 2278-2324.
+[11] Lecun Y, Bottou L, Bengio Y and Haffner P (1998), "Gradient-based learning applied to document recognition", Proceedings of the IEEE., Nov, 1998. Vol. 86(11), pp. 2278-2324.
   
 
-Krizhevsky A, Sutskever I and Hinton GE (2012), "ImageNet Classification with Deep Convolutional Neural Networks", In Advances in Neural Information Processing Systems 25. , pp. 1097-1105. Curran Associates, Inc..
+[12] Krizhevsky A, Sutskever I and Hinton GE (2012), "ImageNet Classification with Deep Convolutional Neural Networks", In Advances in Neural Information Processing Systems 25. , pp. 1097-1105. Curran Associates, Inc..
  
 
-Deng J, Dong W, Socher R, Li L, Kai Li and Li Fei-Fei (2009), "ImageNet: A large-scale hierarchical image database", In 2009 IEEE Conference on Computer Vision and Pattern Recognition., June, 2009. , pp. 248-255.
+[13] Deng J, Dong W, Socher R, Li L, Kai Li and Li Fei-Fei (2009), "ImageNet: A large-scale hierarchical image database", In 2009 IEEE Conference on Computer Vision and Pattern Recognition., June, 2009. , pp. 248-255.
  
 
-Donahue J, Anne Hendricks L, Guadarrama S, Rohrbach M, Venugopalan S, Saenko K and Darrell T (2015), "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
+[14] Donahue J, Anne Hendricks L, Guadarrama S, Rohrbach M, Venugopalan S, Saenko K and Darrell T (2015), "Long-Term Recurrent Convolutional Networks for Visual Recognition and Description", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2015.
 
 
-Silver D, Huang A, Maddison CJ, Guez A, Sifre L, van den Driessche G, Schrittwieser J, Antonoglou I, Panneershelvam V, Lanctot M, Dieleman S, Grewe D, Nham J, Kalchbrenner N, Sutskever I, Lillicrap T, Leach M, Kavukcuoglu K, Graepel T and Hassabis D (2016), "Mastering the game of Go with deep neural networks and tree search", Nature., January, 2016. Vol. 529, pp. 484. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
+[15] Silver D, Huang A, Maddison CJ, Guez A, Sifre L, van den Driessche G, Schrittwieser J, Antonoglou I, Panneershelvam V, Lanctot M, Dieleman S, Grewe D, Nham J, Kalchbrenner N, Sutskever I, Lillicrap T, Leach M, Kavukcuoglu K, Graepel T and Hassabis D (2016), "Mastering the game of Go with deep neural networks and tree search", Nature., January, 2016. Vol. 529, pp. 484. Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved..
  
 
-Lin T, Maire M, Belongie SJ, Bourdev LD, Girshick RB, Hays J, Perona P, Ramanan D, Dollár P and Zitnick CL (2014), "Microsoft COCO: Common Objects in Context", CoRR. Vol. abs/1405.0312
+[16] Lin T, Maire M, Belongie SJ, Bourdev LD, Girshick RB, Hays J, Perona P, Ramanan D, Dollár P and Zitnick CL (2014), "Microsoft COCO: Common Objects in Context", CoRR. Vol. abs/1405.0312
  
 
-Girshick R, Donahue J, Darrell T and Malik J (2014), "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2014.
+[17] Girshick R, Donahue J, Darrell T and Malik J (2014), "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation", In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)., June, 2014.
 
 
-Jaderberg M, Simonyan K, Zisserman A and kavukcuoglu k (2015), "Spatial Transformer Networks", In Advances in Neural Information Processing Systems 28. , pp. 2017-2025. Curran Associates, Inc..
+[18] Jaderberg M, Simonyan K, Zisserman A and kavukcuoglu k (2015), "Spatial Transformer Networks", In Advances in Neural Information Processing Systems 28. , pp. 2017-2025. Curran Associates, Inc..
 
-Ronneberger O, Fischer P and Brox T (2015), "U-Net: Convolutional Networks for Biomedical Image Segmentation", In Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015. Cham , pp. 234-241. Springer International Publishing.
+[19] Ronneberger O, Fischer P and Brox T (2015), "U-Net: Convolutional Networks for Biomedical Image Segmentation", In Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015. Cham , pp. 234-241. Springer International Publishing.
 
-Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. National Academy of Sciences.
+[20] Gebru T, Krause J, Wang Y, Chen D, Deng J, Aiden EL and Fei-Fei L (2017), "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States", Proceedings of the National Academy of Sciences. National Academy of Sciences.
 
-Simonyan K and Zisserman A (2014), "Very Deep Convolutional Networks for Large-Scale Image Recognition".
+[21] Simonyan K and Zisserman A (2014), "Very Deep Convolutional Networks for Large-Scale Image Recognition".
 
-Zeiler MD and Fergus R (2014), "Visualizing and Understanding Convolutional Networks", In Computer Vision -- ECCV 2014. Cham , pp. 818-833. Springer International Publishing.
+[22] Zeiler MD and Fergus R (2014), "Visualizing and Understanding Convolutional Networks", In Computer Vision -- ECCV 2014. Cham , pp. 818-833. Springer International Publishing.
