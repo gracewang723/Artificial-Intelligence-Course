@@ -66,6 +66,7 @@ Teaching Assistants
 * Bo-Jia Li - School of Professional Study, Columbia University
 * Lin-Jing Zhou - School of Information and Software, UESTC
 
+
 * Fall 2019
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Zi-Yang Jia - Department of Computer Science, Rutgers University
