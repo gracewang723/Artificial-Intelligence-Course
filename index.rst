@@ -3,6 +3,8 @@ Course Description
 ************************** 
 * Multidiscplinary Artificial Intelligence
 
+* **Fall 2020**
+
 * Fall 2019
 
 * Core course for undergraduates in UESTC 
@@ -58,7 +60,13 @@ Course Instructors
 
 Teaching Assistants
 =========================
+* **Fall 2020**
+* Wei-Jia Wang - School of Information and Software, UESTC
+* Zi-Yang Jia - Department of Computer Science, Rutgers University
+* Bo-Jia Li - School of Professional Study, Columbia University
+* Lin-Jing Zhou - School of Information and Software, UESTC
 
+* Fall 2019
 * Wei-Jia Wang - School of Information and Software, UESTC
 * Zi-Yang Jia - Department of Computer Science, Rutgers University
 * Bo-Jia Li - School of Professional Study, Columbia University
