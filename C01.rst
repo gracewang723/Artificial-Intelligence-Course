@@ -12,17 +12,19 @@ C01-1-1. Propose a research topic using AI.
 Homework
 ==========
 
-C01-1-1. Visit http://Deepmind.com and [图片]http://yitutech.com. Please take a look at what the two AI companies are doing. Please write one-page report on how to turn AI technologies into business.
+C01-1-1. Visit http://Deepmind.com and http://yitutech.com. Please take a look at what the two AI companies are doing. Please write one-page report on how to turn AI technologies into business.
 
 
 Material 
 ==========
+AI Chips: https://www.anandtech.com/show/16010/hot-chips-2020-live-blog-silicon-photonics-for-ai-600pm-pt
 
 DeepMind: http://Deepmind.com
 
 YiTu Tech: http://yitutech.com
 
 OpenAI: http://openai.com
+
 
 
 Literature
